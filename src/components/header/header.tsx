@@ -5,7 +5,7 @@ export default component$(() => {
   return (
     <header class="flex justify-between">
       <div class="logo">
-        <a href="https://qwik.builder.io/" target="_blank" title="qwik">
+        <a href="/">
           <QwikLogo />
         </a>
       </div>
