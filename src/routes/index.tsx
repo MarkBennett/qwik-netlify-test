@@ -17,9 +17,9 @@ export default component$(() => {
       </Link>
 
       <ul class="list-disc pl-4 mb-4">
-        <li>Deploy a Qwik site on Netlify</li>
-        <li>Handle dynamic routes with params</li>
-        <li>Retrieve static data with `onGet`</li>
+        <li>✅ Deploy a Qwik site on Netlify</li>
+        <li>✅ Handle dynamic routes with params</li>
+        <li>✅ Retrieve static data with `onGet`</li>
         <li>Retrieve Contentful data with `onGet`</li>
         <li>Render an image asset from Contentful</li>
         <li>
